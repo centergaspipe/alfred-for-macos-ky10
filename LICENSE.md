@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS plugin with Alfred for macOS exclusive Plugin - widgets and custom shortcuts. Featuring widgets and custom shortcuts, it's the best choice for
 
 
 
